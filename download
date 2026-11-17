@@ -1,0 +1,11 @@
+# Credenciais Wi-Fi e localização (nunca enviar ao GitHub)
+secrets.h
+
+# Arquivos de build e do editor
+build/
+*.bin
+*.elf
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
